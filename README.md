@@ -1,2 +1,2 @@
+-> 2021 [Depricated] <-
 Portfolio Website for Sterling Salvaterra
-As of 2021 [Depricated]
